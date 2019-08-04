@@ -1,0 +1,18 @@
+.hero {
+  background-color: white !important;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+  background-color: #ffae95 !important;
+  color: #fdbebe !important ;
+}
+
+.navbar-item {
+  color: white !important;
+  font-size: 120%;
+}
+
+.navbar-item:hover {
+  color: #fdbebe !important;
+}
